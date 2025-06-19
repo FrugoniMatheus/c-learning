@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int maiorNumeroInformado(int v[], int tamanho){
+int maiorNumeroInformado(int *v[], int tamanho){
   int maiorNumero = v[0];
   int i = 0;
   for (i = 0; i < tamanho; i++){
@@ -11,7 +11,7 @@ int maiorNumeroInformado(int v[], int tamanho){
   return maiorNumero;
 }
 
-int menorNumeroInformado(int v[], int tamanho){
+int menorNumeroInformado(int *v[], int tamanho){
   int menorNumero = v[0];
   int i;
   for (i = 0; i < tamanho; i++){
