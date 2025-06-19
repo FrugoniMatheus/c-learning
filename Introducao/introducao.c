@@ -11,4 +11,5 @@ int main(){
   printf("Hello World!!\n");
   // Observação: Sempre finalizar um comando com ;
   // \n - pular linha 
+  return 0;
 }
