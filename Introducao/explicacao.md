@@ -24,7 +24,7 @@ Na minha experiência a compilação de arquivos em C e muito diferente e divert
 
 Para realizar esse processo podemos executar no Linux Ubuntu da seguinte maneira: 
 
-1. Criar um arquivo com o final `.c` (exp: arquivo.c). 
+1. Criar um arquivo com o final `.c` (ex: arquivo.c). 
 2. Abrir o terminal e executar o seguinte código : `gcc arquivo.c -o arquivo`.
 3. Depois abrir o arquivo : `./arquivo`
 
