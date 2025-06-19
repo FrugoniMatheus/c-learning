@@ -20,9 +20,7 @@ Se a versão do GCC aparecer a instalação foi concluída corretamente.
 
 
 ## Compilação 
-Na minha experiência a compilação de arquivos em C e muito diferente e divertido de se realizar. O processo se baseia em compilar em linguagem de máquina antes de ser executado. 
-
-Para realizar esse processo podemos executar no Linux Ubuntu da seguinte maneira: 
+Para realizar o processo de compilação da seguinte maneira no Linux Ubuntu: 
 
 1. Criar um arquivo com o final `.c` (ex: arquivo.c). 
 2. Abrir o terminal e executar o seguinte código : `gcc arquivo.c -o arquivo`.
